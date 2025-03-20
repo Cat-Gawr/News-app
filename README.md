@@ -4,7 +4,7 @@ Salve , oggi data 20 / 03 / 2025
 pubblicherò il codice di un app in Kotlin di News 
 come se fosse un giornale
 
->[NOTE!]
+>[!NOTE]
 >L'app per i telefoni IOS può essere molto diversa
 >
 >non sarà appunto in kotlin ma in Swift(|) , se così
