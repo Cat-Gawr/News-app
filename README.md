@@ -9,7 +9,7 @@ come se fosse un giornale
 >
 >non sarà appunto in kotlin ma in Swift(|) , se così
 >
->fosse perfavore , veder eil reposity in futuro
+>fosse perfavore , vedere il reposity in futuro
 
 # FEATURES ( caratteristiche ) 
 -----------------------------------
