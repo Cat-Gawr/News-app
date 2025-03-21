@@ -50,6 +50,7 @@ estesioni di VsCODE ( Visual studio code , VsCode ) attive o scaricate , se cos√
 non fosse , installale ( NON OBBLIGO ) 
 
 2 . l'app pu√≤ essere modificata in questi IDE ( o non ) :
+
     - Visual Studio Code
     
     - Visual Studio
