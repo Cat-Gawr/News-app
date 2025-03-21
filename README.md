@@ -81,6 +81,8 @@ non fosse , installale ( NON OBBLIGO )
       - DataGrip 
       - RubyMine
 
+    - Tutti i TeX ( vedere Ai in python per capire i TeX )   
+
 ( prossimi in futuro )
 
 # IDE Utillizai .
