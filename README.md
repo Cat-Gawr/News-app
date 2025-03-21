@@ -42,7 +42,7 @@ come se fosse un giornale
 
 -----------------------------------
 
-# _
+# Piccole cose
 
 1 . l'app verrà rilasciata su github , ( come sempre ) e verrà aggiornata solo alla versione 
 !.5 del 2 aprile ( 1.5 ) per far partire il codice al 100% assicurati di avere le
