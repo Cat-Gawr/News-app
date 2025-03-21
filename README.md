@@ -93,7 +93,7 @@ non fosse , installale ( NON OBBLIGO )
 ( prossimi in futuro )
 
 # IDE Utillizai .
-1  . VsCode ( Windows  , ma adesso non lavoro più con Windows ma endevours OS [ arch ] e Zorin OS ) 
+1  . VsCode ( Windows  , ma adesso non lavoro più con Windows ma endeavours OS [ arch ] e Zorin OS ) 
 
 2  . Vim ( Arch ) 
 
