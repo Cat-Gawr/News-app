@@ -70,7 +70,7 @@ non fosse , installale ( NON OBBLIGO )
     
     - Notepad++
     
-    - Atom
+    - Atom  ( attenzione , se in atom è difficile NON farlo ! )
     
     - Eclipse
     
@@ -78,7 +78,7 @@ non fosse , installale ( NON OBBLIGO )
     
     - NetBeans
     
-    - Android Studio
+    - Android Studio  ( può dare problemi con swift ) 
     
     
     - Xcode( solo per Mac )
