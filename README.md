@@ -11,7 +11,7 @@ come se fosse un giornale
 >
 >fosse perfavore , vedere il reposity in futuro
 
->[!NOTE]
+>[!WARNING]
 >L'app per ios verrò rilasciata ad aprile  ( così dico )
 >
 >se così NON fosse allora mi scuso tantissimo 
