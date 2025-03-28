@@ -118,11 +118,17 @@ e Python( PY ) , in cui verràa aggiornata la velocità del'app .
 
 # DA LEGGERE OBBLIGOTORIAMENTE : 
 dal 29 marzo 2025 , l'app verrò messa in stato di Copyright per la sicurezza dell'app
+
 tale caso non fosse , l'api(°)  non verrà comunque cancellato per colpa del copyright del 2023 - 2025
+
 per maggiori informazioni ,perfavore leggere il continuo:
+
 API , non saranno cancellate ma bensì rinnovate con due nuovi folder .
+
 veloctià { risposta dell'app ( UI ) dell'utente per compiere movimenti } rallentata del 0.89 % { 0.06 ms e 3 secondi di de_velocità }
+
 il 30 , la'app verrà messa obsoleta per tutti gli IDE [ ancora utilizzabile / i ] fino al 2 aprile , per  colpa del file java 2
+
 e anche che devono esserci 109 file ( 20 F ) per l'app
 
 NON ( fino al 29 ore 12 --- 35  )  - COPYRIGHT© , PROGETTO GRATIS PER TUTTI - 2025
