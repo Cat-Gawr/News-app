@@ -99,11 +99,11 @@ e Python( PY ) , in cui verràa aggiornata la velocità del'app .
 >[!CAUTION]
 >l'app da problemi di velocità da 12 secondi di carimento ---> 15 S ''''
 >
->l'app inoltre avrà un ritardo di risposta da 0.14 ms a ---> .020 ms
+>l'app inoltre avrà un ritardo di risposta da 0.14 ms a ---> 0.20 ms
 
 
 # IDE Utillizati : 
-1  . VsCode ( Windows  , ma adesso non lavoro più con Windows ma endeavours OS [ arch ] e Zorin OS ) 
+1  . VsCode ( Windows  , ma adesso non lavoro più con Windows ma Pop!_OS e Zorin OS ) 
 
 2  . Vim ( Arch --------> Pop!os)
 
