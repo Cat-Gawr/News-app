@@ -92,6 +92,16 @@ non fosse , installale ( NON OBBLIGO )
 
 ( prossimi in futuro )
 
+# Aggiornamento numero 1 : 
+l'app avrà fra poco 17 ( 6 ) file/folder contenti file in Lua, Java, Rust ( ? )
+e Python( PY ) , in cui verràa aggiornata la velocità del'app .
+
+>[!CAUTION]
+>l'app da problemi di velocità da 12 secondi di carimento ---> 15 S ''''
+>
+>l'app inoltre avrà un ritardo di risposta da 0.14 ms a ---> .020 ms
+
+
 # IDE Utillizai .
 1  . VsCode ( Windows  , ma adesso non lavoro più con Windows ma endeavours OS [ arch ] e Zorin OS ) 
 
