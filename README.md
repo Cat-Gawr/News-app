@@ -118,7 +118,7 @@ e Python( PY ) , in cui verràa aggiornata la velocità del'app .
 
 ![Image](https://github.com/user-attachments/assets/304ce176-96c5-4362-ba7a-d3d172122792)
 
-# DA LEGGERE OBBLIGOTORIAMENTE : 
+# DA LEGGERE OBBLIGATORIAMENTE  : 
 dal 29 marzo 2025 , l'app verrò messa in stato di Copyright per la sicurezza dell'app
 
 tale caso non fosse , l'api(°)  non verrà comunque cancellato per colpa del copyright del 2023 - 2025
