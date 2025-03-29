@@ -26,6 +26,14 @@ come se fosse un giornale
 - Condividi le notizie con gli amici
 
 - Sfoglia le notizie
+LE NOTIZIE   : 
+    - notizie di sport
+ 
+    - notizie di meteo ( meteo , vedere app del meteo per capire ) 
+ 
+    - notizie di economia , AFM e politica 
+ 
+    - notizie di guerra e del popolo   
 
 - Aggiungi ai preferiti le notizie da leggere più tardi/Elimina le notizie
 
