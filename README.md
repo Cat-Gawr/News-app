@@ -31,9 +31,9 @@ LE NOTIZIE   :
  
     - notizie di meteo ( meteo , vedere app del meteo per capire ) 
  
-    - notizie di economia , AFM e politica 
- 
-    - notizie di guerra e del popolo
+    - notizie di economia , AFM e politica ( arrivo con la 0.3 , adesso siamo alla 0.2 )
+     
+    - notizie di guerra e del popolo ( arrivo con la 0.3.1 Alpha Y25 )
  
     - # P . s
  
