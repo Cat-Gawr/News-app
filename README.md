@@ -116,7 +116,7 @@ e Python( PY ) , in cui verràa aggiornata la velocità del'app .
 ---------------------------------------------------------
 
 
-![Image](https://github.com/user-attachments/assets/304ce176-96c5-4362-ba7a-d3d172122792)
+![Image](https://github.com/user-attachments/assets/4e978fe5-f6ac-497c-a8c9-9bd6844ed732)
 
 # DA LEGGERE OBBLIGATORIAMENTE  : 
 dal 29 marzo 2025 , l'app verrò messa in stato di Copyright per la sicurezza dell'app
