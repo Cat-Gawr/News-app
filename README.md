@@ -1,4 +1,4 @@
-# News-app ( app in manutenzione fino al 2 aprile )
+# News-app ( app in manutenzione fino al 2 aprile ) 🗞️
 -----------------------------------
 Salve , oggi data 20 / 03 / 2025
 pubblicherò il codice di un app in Kotlin di News 
@@ -61,7 +61,11 @@ LE NOTIZIE   :
 >
 > ' Ricosturici ' l'app
 
+
+
+
 -----------------------------------
+
 
 
 
@@ -75,8 +79,10 @@ non fosse , installale ( NON OBBLIGO )
 2 . l'app può essere modificata in questi IDE ( o non ) :
 
     - Visual Studio Code
-    
-    - Visual Studio
+
+    - Visual Studio Code - insiders
+
+    - Visual Studio year 
       - il Fork di VsCode ovvero  Cursor 
       - il Fork di VsCode ovvero  VSCodium
    
@@ -109,7 +115,19 @@ non fosse , installale ( NON OBBLIGO )
 
     - Tutti i TeX ( vedere Ai in python per capire i TeX )   
 
-( prossimi in futuro )
+    - Kate
+
+    - LyX / lyx
+
+    - WinEdt
+
+    - SciTE
+
+    - Gedit
+
+    - nano / NaNO
+    
+( prossimi in futuro  ⏳)
 
 # Aggiornamento numero 1 : 
 l'app avrà fra poco 17 ( 6 ) file/folder contenti file in Lua, Java, Rust ( ? )
@@ -121,27 +139,34 @@ e Python( PY ) , in cui verràa aggiornata la velocità del'app .
 >l'app inoltre avrà un ritardo di risposta da 0.14 ms a ---> 0.20 ms
 
 
-# IDE Utillizati : 
+# IDE Utillizati 🖊️: 
 1  . VsCode ( Windows )
 
-CANCELLATO --- >2  . Vim ( Arch ---> Pop!os, ma adesso sono ri-passato a Windows 11 pro e lo sarò per SEMPRE )
+
+❗ CANCELLATO --- >2  . Vim ( Arch ---> Pop!os, ma adesso sono ri-passato a Windows 11 pro e lo sarò per SEMPRE )
 
 3  . Pycharm ( ' ) 
 
-CANCELLATO ---> 4  . Neovim  ( non disponible ) 
+❗ CANCELLATO ---> 4  . Neovim  ( non disponible ) 
 
 5  . Cursore AI e  Atom
 
+6  .  Visual Studio 2022
+
+7  . Visual Studio COde { VsCODE } - insiders
+
 ---------------------------------------------------------
 
-# FILE DA CANCELLARE UFFICIALMENTE  :
+# ❗FILE DA CANCELLARE UFFICIALMENTE  :
 
 ![Image](https://github.com/user-attachments/assets/a5fbb8c8-4cf0-4877-8949-3e1e3960f729)
+
+dovete cancellare questo file perchè può causare instabillità
 
 ---------------------------------------------------------
 ![Image](https://github.com/user-attachments/assets/4e978fe5-f6ac-497c-a8c9-9bd6844ed732)
 
-# DA LEGGERE OBBLIGATORIAMENTE  : 
+# ⚠️ DA LEGGERE OBBLIGATORIAMENTE  : 
 dal 29 marzo 2025 , l'app verrò messa in stato di Copyright per la sicurezza dell'app
 
 tale caso non fosse , l'api(°)  non verrà comunque cancellato per colpa del copyright del 2023 - 2025
@@ -154,6 +179,14 @@ veloctià { risposta dell'app ( UI ) dell'utente per compiere movimenti } rallen
 
 il 30 , la'app verrà messa obsoleta per tutti gli IDE [ ancora utilizzabile / i ] fino al 2 aprile , per  colpa del file java 2
 
-e anche che devono esserci 109 file ( 20 F ) per l'app
+e anche che devono esserci 109 file ( 20 F ) per l'app.
 
-NON ( fino al 29 ore 12 --- 35  )  - COPYRIGHT© , PROGETTO GRATIS PER TUTTI - 2025
+---------------------------------------------------------
+
+l'app verrà in futuro ( FORSE ) Messa a pagamento per 23 giorni , se questa cosa
+
+non va bene , sorry.
+
+
+
+COPYRIGHT© , PROGETTO GRATIS PER TUTTI - 2025
