@@ -190,3 +190,20 @@ non va bene , sorry.
 
 
 COPYRIGHT© , PROGETTO GRATIS PER TUTTI - 2025
+
+
+
+
+
+
+
+---------------------------------------------------------
+
+# COSA A CASO : 
+
+
+COSA HO UTILLIZATO REALMENTE : 
+
+![Image](https://github.com/user-attachments/assets/9a1049fb-2f0a-4efd-a0f8-41f00d7d3b53)
+
+![Image](https://github.com/user-attachments/assets/168785c6-1543-438f-902b-a13a0f1af6d5)
