@@ -103,13 +103,13 @@ e Python( PY ) , in cui verràa aggiornata la velocità del'app .
 
 
 # IDE Utillizati : 
-1  . VsCode ( Windows  , ma adesso non lavoro più con Windows ma Pop!_OS e Zorin OS ) 
+1  . VsCode ( Windows )
 
-2  . Vim ( Arch ---> Pop!os)
+CANCELLATO --- >2  . Vim ( Arch ---> Pop!os, ma adesso sono ri-passato a Windows 11 pro e lo sarò per SEMPRE )
 
 3  . Pycharm ( ' ) 
 
-4  . Neovim 
+CANCELLATO ---> 4  . Neovim  ( non disponible ) 
 
 5  . Cursore AI e  Atom
 
