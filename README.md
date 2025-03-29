@@ -105,7 +105,7 @@ e Python( PY ) , in cui verràa aggiornata la velocità del'app .
 # IDE Utillizati : 
 1  . VsCode ( Windows  , ma adesso non lavoro più con Windows ma Pop!_OS e Zorin OS ) 
 
-2  . Vim ( Arch --------> Pop!os)
+2  . Vim ( Arch ---> Pop!os)
 
 3  . Pycharm ( ' ) 
 
