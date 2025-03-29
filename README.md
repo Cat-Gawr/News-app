@@ -96,6 +96,9 @@ non fosse , installale ( NON OBBLIGO )
     
     - Android Studio  ( può dare problemi con swift ) 
     
+    - File Windows / MacOS / Linux
+
+    - Notepad di Windows , MacOS e di lonux ( ma linux con KWrite ) 
     
     - Xcode( solo per Mac )
     
