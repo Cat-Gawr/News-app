@@ -1,4 +1,4 @@
-# News-app
+# News-app ( app in manutenzione fino al 2 aprile )
 -----------------------------------
 Salve , oggi data 20 / 03 / 2025
 pubblicherò il codice di un app in Kotlin di News 
