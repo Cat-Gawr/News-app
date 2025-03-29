@@ -134,7 +134,11 @@ CANCELLATO ---> 4  . Neovim  ( non disponible )
 
 ---------------------------------------------------------
 
+# FILE DA CANCELLARE UFFICIALMENTE  :
 
+![Image](https://github.com/user-attachments/assets/a5fbb8c8-4cf0-4877-8949-3e1e3960f729)
+
+---------------------------------------------------------
 ![Image](https://github.com/user-attachments/assets/4e978fe5-f6ac-497c-a8c9-9bd6844ed732)
 
 # DA LEGGERE OBBLIGATORIAMENTE  : 
