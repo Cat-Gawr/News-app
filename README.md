@@ -33,7 +33,11 @@ LE NOTIZIE   :
  
     - notizie di economia , AFM e politica 
  
-    - notizie di guerra e del popolo   
+    - notizie di guerra e del popolo
+ 
+    - # P . s
+ 
+    - non sono tute le notizie dell'app ma bensì la maggior parte , non riesco a metterli tutti   
 
 - Aggiungi ai preferiti le notizie da leggere più tardi/Elimina le notizie
 
