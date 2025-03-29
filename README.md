@@ -29,6 +29,10 @@ come se fosse un giornale
 
 - Aggiungi ai preferiti le notizie da leggere più tardi/Elimina le notizie
 
+- Modificare il codice sorgente mantendo le / l' API  e togliendo il file python in folder { file } LUA
+
+- Diminure o aumentare la velocità dell'utente dell'app [ UI 1.5 beta ]
+
 -----------------------------------
 
 # API : 
