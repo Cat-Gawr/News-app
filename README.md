@@ -211,3 +211,4 @@ COSA HO UTILLIZATO REALMENTE :
 # UI :
 
 ![Image](https://github.com/user-attachments/assets/be6b335b-cae3-40fc-b22d-245442c841f7)
+ricoriamoci che è la prima UI in futuro l'applicazione verrà ALTAMENTE CAMBIATA .
