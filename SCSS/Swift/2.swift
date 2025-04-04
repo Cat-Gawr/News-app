@@ -2,13 +2,17 @@
 //
 // This source file is part of the Swift.org open source project
 //
-// Copyright (c) 2014 - 2021 Apple Inc. and the Swift project authors
+// Copyright (c) 2014 - 2025 Apple Inc. and the Swift project authors
 // Licensed under Apache License v2.0 with Runtime Library Exception
 //
 // See https://swift.org/LICENSE.txt for license information
 // See https://swift.org/CONTRIBUTORS.txt for the list of Swift project authors
 //
 //===----------------------------------------------------------------------===//
+//QUESTO FLE INSIEME A OPERAND E DIR SONO STATI PRESI         DA          GITHUB
+//NON SAPEVO  COME PROGRAMMARE  QUESTI 3 FILE NELLA SEZIONE SCSS QUINDI HO FATTO 
+//COSì  , IL COPYRIGHT    SU QUESTI 3 FILE VERRà IN QUESTO CASO AGGITO ,  VEDERE 
+//NEWS APP E           POKEMON                                          CAT-GAWR
 
 import Basic
 import AST
