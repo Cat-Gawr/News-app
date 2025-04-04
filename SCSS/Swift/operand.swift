@@ -9,7 +9,10 @@
 // See https://swift.org/CONTRIBUTORS.txt for the list of Swift project authors
 //
 //===----------------------------------------------------------------------===//
-
+//QUESTO FLE INSIEME A 2.SWIFT E DIR SONO STATI PRESI         DA          GITHUB
+//NON SAPEVO  COME PROGRAMMARE  QUESTI 3 FILE NELLA SEZIONE SCSS QUINDI HO FATTO 
+//COSì  , IL COPYRIGHT    SU QUESTI 3 FILE VERRà IN QUESTO CASO AGGITO ,  VEDERE 
+//NEWS APP E           POKEMON                                          CAT-GAWR
 import SILBridging
 
 /// An operand of an instruction.
