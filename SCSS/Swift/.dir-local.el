@@ -1,7 +1,7 @@
 ;;; Directory Local Variables
 ;;; For more information see (info "(emacs) Directory Variables")
 ---------------------------------------------------------------------------------
-;;;QUESTO FLE INSIEME A OPERAND E 2.SWIFT SONO STATI PRESI     DA          GITHUB
+;;;QUESTO FILE INSIEME A OPERAND E 2.SWIFT SONO STATI PRESI     DA         GITHUB
 ;;;NON SAPEVO  COME PROGRAMMARE  QUESTI 3 FILE NELLA SEZIONE SCSS QUINDI HO FATTO 
 ;;;COSì  , IL COPYRIGHT    SU QUESTI 3 FILE VERRà IN QUESTO CASO AGGITO ,  VEDERE 
 ;;;NEWS APP E           POKEMON                                          CAT-GAWR
