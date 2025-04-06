@@ -86,6 +86,6 @@ def strip_accents(s):
                   if unicodedata.category(c) != 'Mn')
 
 main(sys.argv[1])
-# attenzione , questo file non è per l'app , assicurati prima di copiare e incollare ( CTRL + C / V ) di leggere questo file
+# attenzione , questo file non è per l'app , assicurati prima di copiare e incollare ( CTRL + C / V )            di leggere questo file
 # infatti questo file in Python NON è per l'app , crea problemi nella navigazione , perfavore , non copiarlo se non vuoi crashare l'app
-# Cat-Gawr copyright 2025
+# Cat-Gawr                                                       copyright                                                         2025
