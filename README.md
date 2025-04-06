@@ -1,4 +1,4 @@
-# News-app ( app in manutenzione fino al 2 aprile ) 🗞️
+# News-app ( app in manutenzione fino al 20 { possibile data ufficiale }  aprile ) 🗞️
 -----------------------------------
 Salve , oggi data 20 / 03 / 2025
 pubblicherò il codice di un app in Kotlin di News 
@@ -141,7 +141,7 @@ e Python( PY ) , in cui verràa aggiornata la velocità del'app .
 
 # IDE Utillizati 🖊️: 
 1  . VsCode ( Windows )
-
+   1 . 5 VsCode  -  insiders ( debian, sul laptop dato che coem main ho windows 11 pro ma come 2° ho debian su un laptop di Asus)
 
 ❗ CANCELLATO --- >2  . Vim ( Arch ---> Pop!os, ma adesso sono ri-passato a Windows 11 pro e lo sarò per SEMPRE )
 
